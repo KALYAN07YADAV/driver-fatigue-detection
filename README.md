@@ -52,7 +52,11 @@ A real-time driver drowsiness and fatigue detection system using **MediaPipe**, 
 
 | Alert Mode | Drowsy Mode | Fatigue Mode | Critical Mode |
 |------------|-------------|--------------|----------------|
-| ![](screenshots/status_alert.png) | ![](screenshots/status_drowsy.png) | ![](screenshots/status_fatigue.png) | ![](screenshots/status_critical.png) |
+| ![](![Screenshot 2025-06-21 162717](https://github.com/user-attachments/assets/cfbb9ebc-44f2-4d6a-96aa-1d80710958e8)
+) | ![](![Screenshot 2025-06-21 162830](https://github.com/user-attachments/assets/d24a5a5d-5b40-4671-a106-fe6369e7ab2a)
+) | ![](![Screenshot 2025-06-21 162612](https://github.com/user-attachments/assets/ccf43215-19b7-4b7b-a9ef-82f492f42f78)
+) | ![](![Screenshot 2025-06-21 162624](https://github.com/user-attachments/assets/b799335b-77e8-4b9c-b849-609be5dff640)
+) |
 
 ---
 
